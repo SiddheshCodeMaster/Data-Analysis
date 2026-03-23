@@ -35,3 +35,37 @@ Instead of blindly removing data, a dependency-based approach was used:
 
 - Recovered **Price Per Unit** using item-price mapping  
 - Derived **Quantity** using:
+
+
+---
+
+## 🎯 Key Learnings
+
+- Data cleaning is the most critical step in analysis  
+- Understanding relationships between columns enables data recovery  
+- Not all missing data should be filled — some should be removed  
+- Validation is essential before drawing insights  
+
+---
+
+## 🚀 Future Improvements
+
+- Add advanced analytics and forecasting  
+- Enhance dashboard interactivity  
+- Perform deeper customer behavior analysis  
+
+---
+
+## 🌐 Portfolio & More
+
+You can explore more of my work here:  
+👉 https://datasavywithsiddhesh.onrender.com/
+
+---
+
+## 💡 About Me
+
+I enjoy working on real-world messy datasets and transforming them into meaningful insights.  
+This project is part of my journey of consistently building and sharing data projects.
+
+---
